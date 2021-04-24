@@ -1,20 +1,36 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Matthew R. Evrard
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
+- <evrards@gmail.com>
+- (347) 756-0196
 - [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+- Brooklyn, NY
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Ph.D. candidate seeking post-doctoral research position. 
 
-## Experience
+## Education
+
+`Anticipated Summer 2021`
+__State University of New York at Downstate Medical Center, Brooklyn, NY.__
+- Ph.D., Neural and Behavioral Sciences
+- Advisor: Sheryl S. Smith, Ph.D.
+- Dissertation: GABAAR mediated remodeling of post-synaptic connections during adolescence 
+
+
+
+`May 2014`
+__University of California San Diego, CA.__
+__San Diego State University, San Diego, CA.__ 
+-M.A., Postsecondary Educational Leadership, specialization in Psychology
+
+`May 2010`
+__State University of New York College at Buffalo__
+-B.S., Psychology, specialization in Biology
+-Advisor: Jean M. DiPirro, Ph.D.
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
