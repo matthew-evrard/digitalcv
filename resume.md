@@ -3,7 +3,7 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <evrards@gmail.com>
+- <evrard@gmail.com>
 - (347) 756-0196
 - [richardhendricks.example.com](http://richardhendricks.example.com)
 - Brooklyn, NY
@@ -16,8 +16,11 @@ Ph.D. candidate seeking post-doctoral research position.
 
 `Anticipated Summer 2021`
 __State University of New York at Downstate Medical Center, Brooklyn, NY.__
+
 - Ph.D., Neural and Behavioral Sciences
+
 - Advisor: Sheryl S. Smith, Ph.D.
+
 - Dissertation: GABAAR mediated remodeling of post-synaptic connections during adolescence 
 
 
